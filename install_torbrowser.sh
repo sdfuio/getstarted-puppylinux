@@ -5,5 +5,4 @@ pkg get torbrowser-launcher
 run-as-spot torbrowser-launcher 
 
 # note:
-# torbrowser can't be used as a root user
-
+# root user can't use torbrowser
