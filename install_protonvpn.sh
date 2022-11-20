@@ -16,6 +16,12 @@ pip3 install protonvpn-cli
 # initial setting
 protonvpn init
 
+# note:
+# It is necessary to input "OpenVPN / IKEv2 username & password" during setting.
+# we don't usually use "OpenVPN / IKEv2 username & password",
+# so it seem to be necessary to login protonvpn and see the account info to find out the username and password.
+ 
+
 # install the gui app if needed
 pip3 install protonvpn-gui
 
